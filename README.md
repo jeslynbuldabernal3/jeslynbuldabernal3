@@ -75,12 +75,11 @@ Plot Twist: "I'm actually a [enthusiastic]"
 🎵 Coding Playlist: [Ballad] 
 ```
 
-
 ## 💌  Let's Write Together
 
 <div align="center">
 
-### ✨ *Connect With The Author* ✨
+### ✨ *Connect With The Me* ✨
 
 <br>
 
@@ -96,7 +95,6 @@ I'm always open to new chapters and collaborations!
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=4A1C40)](https://facebook.com/jeslyn.bernal.7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A1C40)](https://instagram.com/jxlyn03?igsh=MTRvOXByamZxb3p0cA==)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4A1C40)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A1C40)](mailto:jeslynbuldabernal3@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=4A1C40)](https://tiktok.com/@jx_lyn9)
 <br>
@@ -108,22 +106,6 @@ I'm always open to new chapters and collaborations!
 <br><br>
 
 <!-- Support Section -->
-### ☕ *Support This Story* 
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=4A1C40" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://ko-fi.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=4A1C40" alt="Ko-Fi"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-<div align="center">
 
 ## 🦋 Epilogue
 
