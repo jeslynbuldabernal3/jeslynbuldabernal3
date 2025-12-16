@@ -95,11 +95,10 @@ I'm always open to new chapters and collaborations!
 <br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=4A1C40)](https://facebook.com/jeslyn.bernal.7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A1C40)](https://instagram.com/YOUR_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A1C40)](https://instagram.com/jxlyn03?igsh=MTRvOXByamZxb3p0cA==)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4A1C40)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A1C40)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4A1C40)](https://discord.gg/YOUR_DISCORD)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A1C40)](mailto:jeslynbuldabernal3@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=4A1C40)](https://tiktok.com/@jx_lyn9)
 <br>
 
 ### 💭 *Daily Inspiration* 💭
